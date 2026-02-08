@@ -1,5 +1,6 @@
 {
   "name": "hotel-maps-project",
+  "description": "A premium hotel discovery platform with real-time Google Maps synchronization, built using Next.js 14 and Zustand.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -27,3 +28,4 @@
     "typescript": "^5"
   }
 }
+
